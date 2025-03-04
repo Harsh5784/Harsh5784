@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 BCA Student | Application & MERN Stack Developer <br>
 🔹 Passionate about building scalable and efficient applications.<br>
-🔹 Currently developing a milk delivery management platform, focusing on automation, transparency, and seamless transactions.<br?
+🔹 Currently developing a milk delivery management platform, focusing on automation, transparency, and seamless transactions.<br>
 🔹 Previously interned at a startup, gaining hands-on experience in web and app development.<br>
 <br>
 💡 Always eager to learn, innovate, and contribute to impactful projects!<br>
